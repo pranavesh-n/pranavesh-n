@@ -26,7 +26,7 @@ I am a Product-Minded Software Engineer and ECE student at VIT Chennai, speciali
 * **Core:** TypeScript, JavaScript, Python, MATLAB
 * **Frontend:** React.js, Tailwind CSS, Progressive Web Apps (PWA)
 * **Backend & Cloud:** Node.js, Vercel Serverless Edge, Chrome Extension APIs
-* **Databases:** Supabase (PostgreSQL), MongoDB Atlas
+* **Databases:** Supabase (PostgreSQL), MongoDB Atlas and Firebase Store
 
 ---
 
