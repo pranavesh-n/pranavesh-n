@@ -35,7 +35,7 @@ I am a Product-Minded Software Engineer and ECE student at VIT Chennai, speciali
 | :--- | :--- | :--- |
 | **[valarchiX Framework]** | Financial simulation suite using data-driven asset analyzers and index-based planning matrices. Built as a fully installable PWA. | [View Platform](https://valarchix.vercel.app) |
 | **[Sikkanam Framework]** | Complex travel-intelligence architecture minimizing serverless API compute over OSRM routing loops. | [View Platform](https://sikkanam.vercel.app) |
-| **[Marakadhey]** | Asynchronous, event-driven productivity extension managing persistent browser background states. | [Chrome Web Store](https://chromewebstore.google.com/detail/inidbaohifkncdjnondbkljhoogkhnce?utm_source=item-share-cb) |
+| **[Marakadhey]** | Asynchronous, event-driven productivity extension managing persistent browser background states. | [Chrome Web Store](https://chromewebstore.google.com/detail/inidbaohifkncdjnondbkljhoogkhnce?utm_source=item-share-cb) | [Microsoft Edge Addons](https://microsoftedge.microsoft.com/addons/detail/marakadhey%E2%80%93never-miss-opp/cmndbipcnkkmeojkioajenbckapcfpla)
 | **[DSP Kalman Filter]** | Speech enhancement pipeline utilizing recursive logic to optimize signal-to-noise ratio in low-frequency ranges. | *Academic Build* |
 
 ---
@@ -45,9 +45,9 @@ I am a Product-Minded Software Engineer and ECE student at VIT Chennai, speciali
   <img src="vercel_logs.png" alt="Vercel Usage Metrics" width="500px" />
 </p>
 
-- ⚡ **Fluid Active CPU Overhead:** 55 seconds consumed / 4 hours allocated (Highly Optimized execution paths).
-- 🌐 **Serverless Request Footprint:** 702 function invocations / 1,000,000 baseline cap.
-- ⏱️ **Edge Request Duration:** 1 second total runtime execution across all routing matrices.
+- ⚡ **Fluid Active CPU Overhead:**  3 minutes 44 seconds consumed / 4 hours allocated (Highly Optimized execution paths).
+- 🌐 **Serverless Request Footprint:** 1400 function invocations / 1,000,000 baseline cap.
+- ⏱️ **Edge Request Duration:** 9 seconds total runtime execution across all routing matrices.
 
 ---
 <p align="center"><i>"Building optimized systems that bridge complex engineering with real-world product deployment."</i></p>
