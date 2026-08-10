@@ -42,7 +42,7 @@ I am a Product-Minded Software Engineer and ECE student at VIT Chennai, speciali
 
 ### 📊 Real-Time Production Telemetry (Vercel Edge Logs)
 <p align="center">
-  <img src="vercel-telemetry.png" alt="Vercel Usage Metrics" width="500px" />
+  <img src="vercel_logs.png" alt="Vercel Usage Metrics" width="500px" />
 </p>
 
 - ⚡ **Fluid Active CPU Overhead:** 55 seconds consumed / 4 hours allocated (Highly Optimized execution paths).
