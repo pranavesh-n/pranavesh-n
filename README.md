@@ -15,7 +15,7 @@
       <img src="https://img.shields.io/badge/🌐_Portfolio-pranaveshn.vercel.app-ea580c?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
     </a>
     &nbsp;
-    <a href="www.linkedin.com/in/pranaveshn">
+    <a href="https://www.linkedin.com/in/pranaveshn">
       <img src="https://img.shields.io/badge/LinkedIn-Connect_with_Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
     &nbsp;
