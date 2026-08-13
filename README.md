@@ -192,7 +192,7 @@ I am an **Electronics & Communication Engineering** student at **VIT Chennai** w
 * 📅 **Google Calendar Sync:** Direct integration with Google Calendar schedules.
 * 🌐 **Browser-Native:** Published live on Chrome Web Store & Microsoft Edge Add-ons.
 * 🔗 **Links:** <a href="https://chromewebstore.google.com/detail/marakadhey/inidbaohifkncdjnondbkljhoogkhnce">Chrome Web Store</a> | <a href="https://microsoftedge.microsoft.com/addons/detail/marakadhey%E2%80%93never-miss-opp/cmndbipcnkkmeojkioajenbckapcfpla">Edge Add-ons</a>
-
+🔗 <b>Links:</b> <a href="https://chromewebstore.google.com/detail/marakadhey/inidbaohifkncdjnondbkljhoogkhnce">Chrome Web Store</a> | <a href="https://microsoftedge.microsoft.com/addons/detail/marakadhey%E2%80%93never-miss-opp/cmndbipcnkkmeojkioajenbckapcfpla">Edge Add-ons</a> | <a href="https://www.producthunt.com/products/marakadhey/marakadhey/launch-day?utm_source=my-products">Product Hunt Launch</a>
 <br />
 
 ---
