@@ -244,10 +244,6 @@ I am an **Electronics & Communication Engineering** student at **VIT Chennai** w
 
   <br />
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranavesh-n&theme=tokyonight&hide_border=true" width="80%" alt="GitHub Streak" />
-
-  <br /><br />
-
   <p><b>Idea 💡 • AI Prompt 🧠 • Build 🤖 • Iterate 🛠️ • Ship 🚀</b></p>
 
   <p><i>"Thanks for stopping by! Let's connect and build."</i></p>
