@@ -246,7 +246,7 @@ I am an **Electronics & Communication Engineering** student at **VIT Chennai** w
 
   <p><b>Idea 💡 • AI Prompt 🧠 • Build 🤖 • Iterate 🛠️ • Ship 🚀</b></p>
 
-  <p><i>"Thanks for stopping by! Let's connect and build."</i></p>
+  <p><i>"Want my services or help ! Let's connect and build."</i></p>
 
   <br />
 
