@@ -52,7 +52,7 @@
 
 > *"I don't mug up programming languages. I leverage modern AI tools to solve real-world problems and ship production-ready products."*
 
-I am an **Electronics & Communication Engineering** student at **VIT Chennai** who builds software by combining **product design, system architecture, and AI-assisted workflows**. Instead of spending months memorizing syntax or algorithms, I use next-generation AI developer tools (**Cursor**, **Antigravity**, **Bolt.new**, **Lovable**, **Emergent**, **Base44**, **Codex**) to turn ideas into fully functional, deployed products.
+I am an **Electronics & Communication Engineering** student at **VIT Chennai** who builds software by combining **product design, system architecture, and AI-assisted workflows**. Instead of spending months memorizing syntax or algorithms, I use next-generation AI developer tools (**Cursor**, **Antigravity**, **Bolt.new**, **Lovable**, **Emergent**, **Base44**, **Codex**) to turn ideas into fully functional, deployed products across Web, Mobile & Extensions.
 
 <br />
 
@@ -63,7 +63,8 @@ I am an **Electronics & Communication Engineering** student at **VIT Chennai** w
 <br />
 
 * 🧬 **Shipped & Refining:** <a href="https://valarchix.vercel.app"><b>ValarchiX</b></a> — Personal Financial Intelligence Platform (Live & Product Hunt featured; actively refining & optimizing with new features).
-* 🚀 **Production Products:** <a href="https://sikkanam.vercel.app"><b>Sikkanam</b></a> (Tamil Nadu Travel Planner PWA), <a href="https://chromewebstore.google.com/detail/marakadhey/inidbaohifkncdjnondbkljhoogkhnce"><b>Marakadhey</b></a> (Chrome & Edge Extension), & Speech Enhancement System (DSP).
+* 📌 **Cross-Platform Utility:** <a href="https://chromewebstore.google.com/detail/marakadhey/inidbaohifkncdjnondbkljhoogkhnce"><b>Marakadhey</b></a> — Opportunity & Reminder System available as **Chrome & Edge Extension** and **Android Mobile App** (<a href="https://pranaveshn.vercel.app/marakadhey_mobile.apk">Direct APK</a>).
+* 🚀 **Production Products:** <a href="https://sikkanam.vercel.app"><b>Sikkanam</b></a> (Tamil Nadu Travel Planner PWA), & Speech Enhancement System (DSP).
 * 💼 **Industry Experience:** Former Student Intern at **Danfoss Industries** (Power Apps & Power BI business analytics).
 * 🎯 **Core Superpower:** Rapid product building, user-centric problem solving, and AI prompt engineering.
 
@@ -97,15 +98,19 @@ I am an **Electronics & Communication Engineering** student at **VIT Chennai** w
 
   <br />
 
-  <h3>🌐 Frontend & App Deployment Platforms</h3>
+  <h3>🌐 Frontend, Mobile & Deployment Platforms</h3>
   <p>
+    <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native" />
+    &nbsp;
+    <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
+    &nbsp;
+    <img src="https://img.shields.io/badge/Chrome_Extension-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Chrome Extension" />
+    &nbsp;
     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
     &nbsp;
     <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind" />
     &nbsp;
     <img src="https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white" alt="PWA" />
-    &nbsp;
-    <img src="https://img.shields.io/badge/Chrome_Extension-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Chrome Extension" />
     &nbsp;
     <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
   </p>
@@ -151,17 +156,17 @@ I am an **Electronics & Communication Engineering** student at **VIT Chennai** w
 
 <br />
 
-### 🧭 <a href="https://sikkanam.vercel.app">Sikkanam — Travel & Budget Route Planner PWA</a>
+### 📌 <a href="https://chromewebstore.google.com/detail/marakadhey/inidbaohifkncdjnondbkljhoogkhnce">Marakadhey — Opportunity & Reminder Utility (Web & Android Mobile)</a>
 
-> **Travel smart. Spend Sikkanam.**
+> **Never miss opportunities & deadlines — capture on the browser, track on your phone.**
 
-* 🗺️ **Custom OSRM Engine:** Dynamic 1.25x – 1.40x traffic & mountain terrain scaling.
-* 🚆 **Transit Fare Pipeline:** TNSTC & IRCTC fare estimation across 80+ cities.
-* 🤖 **AI Trip Planner:** Gemini & Groq LLaMA AI itinerary generation.
-* ⚡ **Lighthouse Benchmark:** 💯 SEO & 96 Accessibility score.
-* 🔗 **Links:** <a href="https://sikkanam.vercel.app">Live Website</a> | <a href="https://www.producthunt.com/products/sikkanam">Product Hunt Page</a>
+* 📱 **Android Mobile App:** Full-featured on-the-go opportunity tracking, push reminders, and quick capture.
+* ⚡ **1-Click Web Extension:** Save opportunities, hackathons, and deadlines instantly with auto-parsed metadata.
+* ⏰ **Automated Reminders:** Recurrence scheduling, snooze support, and custom notification triggers.
+* 📅 **Calendar & Cloud Sync:** Integration with Google Calendar and real-time cloud synchronization.
+* 🌐 **Multi-Platform:** Published on Chrome Web Store & Edge Add-ons, with direct Android APK release.
 
-<br />
+🔗 <b>Links:</b> <a href="https://pranaveshn.vercel.app/marakadhey_mobile.apk">📥 <b>Download Android APK</b></a> | <a href="https://chromewebstore.google.com/detail/marakadhey/inidbaohifkncdjnondbkljhoogkhnce">Chrome Web Store</a> | <a href="https://microsoftedge.microsoft.com/addons/detail/marakadhey%E2%80%93never-miss-opp/cmndbipcnkkmeojkioajenbckapcfpla">Edge Add-ons</a> | <a href="https://www.producthunt.com/products/marakadhey/marakadhey/launch-day?utm_source=my-products">Product Hunt Launch</a>
 
 ---
 
@@ -183,16 +188,17 @@ I am an **Electronics & Communication Engineering** student at **VIT Chennai** w
 
 <br />
 
-### 📌 <a href="https://chromewebstore.google.com/detail/marakadhey/inidbaohifkncdjnondbkljhoogkhnce">Marakadhey — Browser Opportunity & Reminder Utility</a>
+### 🧭 <a href="https://sikkanam.vercel.app">Sikkanam — Travel & Budget Route Planner PWA</a>
 
-> **Save important pages and never miss deadlines.**
+> **Travel smart. Spend Sikkanam.**
 
-* ⚡ **1-Click Web Capture:** Save web pages with context & instant workflow integration.
-* ⏰ **Automated Reminders:** Recurrence scheduling, deadline alerts, & snooze support.
-* 📅 **Google Calendar Sync:** Direct integration with Google Calendar schedules.
-* 🌐 **Browser-Native:** Published live on Chrome Web Store & Microsoft Edge Add-ons.
+* 🗺️ **Custom OSRM Engine:** Dynamic 1.25x – 1.40x traffic & mountain terrain scaling.
+* 🚆 **Transit Fare Pipeline:** TNSTC & IRCTC fare estimation across 80+ cities.
+* 🤖 **AI Trip Planner:** Gemini & Groq LLaMA AI itinerary generation.
+* ⚡ **Lighthouse Benchmark:** 💯 SEO & 96 Accessibility score.
+* 🔗 **Links:** <a href="https://sikkanam.vercel.app">Live Website</a> | <a href="https://www.producthunt.com/products/sikkanam">Product Hunt Page</a>
 
-🔗 <b>Links:</b> <a href="https://chromewebstore.google.com/detail/marakadhey/inidbaohifkncdjnondbkljhoogkhnce">Chrome Web Store</a> | <a href="https://microsoftedge.microsoft.com/addons/detail/marakadhey%E2%80%93never-miss-opp/cmndbipcnkkmeojkioajenbckapcfpla">Edge Add-ons</a> | <a href="https://www.producthunt.com/products/marakadhey/marakadhey/launch-day?utm_source=my-products">Product Hunt Launch</a>
+<br />
 
 ---
 
