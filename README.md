@@ -62,7 +62,7 @@ I am an Electronics & Communication Engineering student at VIT Chennai who build
 
 <br />
 
-💰 Latest Build: <a href="https://panampaaru.vercel.app"><b>Panam Paaru (பணம் பாரு)</b></a> — Real-time Personal Finance & Portfolio Intelligence Platform (Neo-Brutalist UI, reactive Convex backend, live Indian market data engine).
+💰 Latest Build: <a href="https://panampaaru.vercel.app"><b>Panam Paaru </b></a> — Real-time Personal Finance & Portfolio Intelligence Platform (Neo-Brutalist UI, reactive Convex backend, live Indian market data engine).
 
 🧬 Shipped & Refining: <a href="https://valarchix.vercel.app"><b>ValarchiX</b></a> — Personal Financial Intelligence Platform (Live & Product Hunt featured; actively refining & optimizing with new features).
 
