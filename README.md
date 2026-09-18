@@ -5,7 +5,7 @@
   <br />
 
   <a href="https://pranaveshn.vercel.app/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=EA580C&center=true&vCenter=true&width=750&lines=AI-Assisted+Product+Builder;Solving+Real+Problems+%3E+Mugging+Up+Syntax;Idea+%E2%86%92+AI+Architecture+%E2%86%92+Product+%E2%86%92+Production;Building+FinTech+%7C+AI+%7C+Web+%7C+Mobile+Products" alt="Typing Subtitle" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=EA580C&center=true&vCenter=true&width=800&lines=AI-Assisted+Product+Builder;Solving+Real+Problems+%3E+Mugging+Up+Syntax;Idea+%E2%86%92+Architecture+%E2%86%92+AI+%E2%86%92+Product;Building+FinTech+%7C+AI+%7C+Web+%7C+Mobile+Products" alt="Typing Subtitle" />
   </a>
 
 <br /><br />
@@ -45,47 +45,46 @@
 <hr />
 
 <div align="center">
-  <h2>About Me & Builder Philosophy</h2>
+  <h2>About Me</h2>
 </div>
 
 > *"I don't mug up programming languages. I leverage modern AI tools to solve real-world problems and ship production-ready products."*
 
-I am an **Electronics & Communication Engineering** student at **VIT Chennai** who builds software by combining **product design, system architecture, and AI-assisted development workflows**.
+I am an **Electronics & Communication Engineering** student at **VIT Chennai** focused on building real-world software products through **product thinking, system architecture, AI-assisted development, and rapid iteration**.
 
-I focus on turning real-world problems into usable products by combining modern AI development tools, rapid prototyping, backend architecture, data systems, and product thinking.
-
-Instead of treating programming languages as the end goal, I use tools such as **Cursor, Antigravity, OpenAI Codex, Bolt.new, Lovable, Emergent, and Base44** to accelerate the journey from an idea to a functional, deployed product.
-
-<div align="center">
+My approach is simple:
 
 ```text
-IDEA → ARCHITECTURE → AI TOOLCHAIN → BUILD → ITERATE → SHIP
+IDEA → PROBLEM → ARCHITECTURE → AI TOOLCHAIN → BUILD → ITERATE → SHIP
 ```
 
-</div>
+I use modern AI development tools to accelerate product development while focusing on understanding the underlying **architecture, data flow, APIs, user experience, and engineering decisions**.
 
-* **Latest Product:** <a href="https://github.com/pranaveshn2023-dotcom/Panam-Paaru"><b>Panam Paaru</b></a> — Real-time personal finance and multi-asset portfolio tracking platform.
-* **Shipped & Refining:** <a href="https://valarchix.vercel.app"><b>ValarchiX</b></a> — Personal Financial Intelligence Platform.
-* **Cross-Platform Product:** <a href="https://chromewebstore.google.com/detail/marakadhey/inidbaohifkncdjnondbkljhoogkhnce"><b>Marakadhey</b></a> — Opportunity and Reminder System for Web and Android.
-* **Production PWA:** <a href="https://sikkanam.vercel.app"><b>Sikkanam</b></a> — Tamil Nadu Travel and Budget Route Planner.
-* **Academic Project:** Speech Enhancement System using adaptive Kalman filtering and spectral post-processing.
-* **Industry Experience:** Former Student Intern at **Danfoss Industries**, working with Power Apps, SharePoint, and Power BI.
-* **Core Strengths:** Product building, system architecture, problem solving, rapid prototyping, and AI-assisted development.
+My work spans **FinTech, AI-powered applications, Web, Mobile, browser extensions, data analytics, and Digital Signal Processing**.
 
-<hr />
+### What I Build
+
+* **Panam Paaru** — Real-time personal finance and multi-asset portfolio tracking platform.
+* **ValarchiX** — Personal financial intelligence and learning platform.
+* **Marakadhey** — Cross-platform opportunity and reminder system.
+* **Sikkanam** — Travel and budget route planning PWA.
+* **Speech Enhancement System** — DSP project using adaptive Kalman filtering and spectral processing.
+* **Enterprise Applications** — Power Apps, SharePoint, and Power BI solutions developed during my industry internship.
+
+---
 
 <div align="center">
-  <h2>AI Toolstack & Builder Ecosystem</h2>
+  <h2>AI Development Toolchain</h2>
 </div>
 
-<h3>AI Developer Tools</h3>
+### AI-Assisted Development
 
 <p>
   <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
   &nbsp;
   <img src="https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Antigravity" />
   &nbsp;
-  <img src="https://img.shields.io/badge/OpenAI_Codex-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Codex" />
+  <img src="https://img.shields.io/badge/OpenAI_Codex-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Codex" />
   &nbsp;
   <img src="https://img.shields.io/badge/Bolt.new-6366F1?style=for-the-badge&logo=lightning&logoColor=white" alt="Bolt.new" />
   &nbsp;
@@ -96,55 +95,107 @@ IDEA → ARCHITECTURE → AI TOOLCHAIN → BUILD → ITERATE → SHIP
   <img src="https://img.shields.io/badge/Base44-FF6B6B?style=for-the-badge&logo=layers&logoColor=white" alt="Base44" />
 </p>
 
-<h3>Frontend, Mobile & Deployment</h3>
+---
+
+<div align="center">
+  <h2>Technology Stack</h2>
+</div>
+
+### Languages
 
 <p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Python-Basic-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB" />
+</p>
+
+### Frontend & Application Development
+
+<p>
+  <img src="https://img.shields.io/badge/React_19-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
   &nbsp;
   <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native" />
   &nbsp;
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
   &nbsp;
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Chrome_Extension-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Chrome Extension" />
-  &nbsp;
   <img src="https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white" alt="PWA" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Chrome_Extensions-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Chrome Extensions" />
 </p>
 
-<h3>Backend, Data & AI</h3>
+### Backend & Cloud
 
 <p>
   <img src="https://img.shields.io/badge/Convex-FF6B35?style=for-the-badge&logo=convex&logoColor=white" alt="Convex" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Python_(Basic)-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Google_Gemini_AI-8E75B5?style=for-the-badge&logo=google-gemini&logoColor=white" alt="Gemini AI" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Groq_LLaMA-FF6C37?style=for-the-badge&logo=meta&logoColor=white" alt="Groq LLaMA" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
   &nbsp;
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
 </p>
 
-<h3>Analytics & Enterprise Tools</h3>
+### Data, Visualization & Processing
 
 <p>
-  <img src="https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge&logo=microsoftpowerapps&logoColor=white" alt="Power Apps" />
+  <img src="https://img.shields.io/badge/Recharts-FF6384?style=for-the-badge" alt="Recharts" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/PDF.js-FF0000?style=for-the-badge" alt="PDF.js" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/XLSX-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="XLSX" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/PapaParse-2C3E50?style=for-the-badge" alt="PapaParse" />
   &nbsp;
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
   &nbsp;
-  <img src="https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoftsharepoint&logoColor=white" alt="SharePoint" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Git_%26_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Git & GitHub" />
+  <img src="https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge&logo=microsoftpowerapps&logoColor=white" alt="Power Apps" />
 </p>
+
+### Development & Version Control
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoftsharepoint&logoColor=white" alt="SharePoint" />
+</p>
+
+---
+
+<div align="center">
+  <h2>APIs, Data Sources & Integrations</h2>
+</div>
+
+My products integrate external APIs and data sources where live or authoritative information is required.
+
+| API / Service               | Usage                                                                                                    |
+| :-------------------------- | :------------------------------------------------------------------------------------------------------- |
+| **AMFI**                    | Mutual fund NAV data and Indian mutual fund valuation                                                    |
+| **CoinGecko API**           | Cryptocurrency market data                                                                               |
+| **Equity Market Data APIs** | Indian equity pricing and market valuation                                                               |
+| **NIFTY 50 / SENSEX Data**  | Market benchmark tracking                                                                                |
+| **Google OAuth 2.0**        | Authentication and account access                                                                        |
+| **Google Calendar**         | Calendar synchronization for Marakadhey                                                                  |
+| **OSRM**                    | Route calculation and travel distance estimation for Sikkanam                                            |
+| **TNSTC / IRCTC Data**      | Public transport and fare estimation for Sikkanam                                                        |
+| **Gemini**                  | AI itinerary generation and AI-assisted application workflows                                            |
+| **Groq / LLaMA**            | AI-powered generation and application workflows                                                          |
+| **Convex Cloud**            | Backend functions, database, authentication support, caching, real-time subscriptions and scheduled jobs |
+| **Supabase**                | Authentication and persistent data storage for ValarchiX                                                 |
+| **Vercel**                  | Production deployment and hosting                                                                        |
+
+For Panam Paaru specifically, market data is handled through server-side synchronization and caching rather than exposing external data-fetching logic directly in the client. The system maintains dedicated `stockPriceCache` and `mfNavCache` structures.
+
+---
 
 <hr />
 
@@ -152,104 +203,288 @@ IDEA → ARCHITECTURE → AI TOOLCHAIN → BUILD → ITERATE → SHIP
   <h2>Products Built & Shipped</h2>
 </div>
 
-### <a href="https://github.com/pranaveshn2023-dotcom/Panam-Paaru">Panam Paaru — Personal Finance & Portfolio Intelligence Platform</a>
+## <a href="https://panampaaru.vercel.app">Panam Paaru — Personal Finance & Portfolio Intelligence Platform</a>
 
 > **See Your Money, Control Your Spending**
 
-Panam Paaru is a **real-time personal finance and multi-asset portfolio tracking platform** designed to provide a unified view of cashflow, budgets, investments, and wealth.
+**Panam Paaru (பணம் பாரு)** is a real-time personal finance and multi-asset portfolio tracking platform built around two core problems:
 
-The platform combines **transactional cloud persistence, calendar-aware budgeting, Indian market data synchronization, statement ingestion, portfolio valuation, and privacy controls** into a single financial workspace.
+1. Understanding where money goes.
+2. Knowing what investments are worth right now.
 
-#### Core Capabilities
+The platform combines personal finance management with live investment valuation, cloud persistence, market data, statement ingestion, budgeting, and privacy controls.
 
-* **Unified Financial Dashboard:** Overview, Cashflow, Investments, and Settings/Security hubs.
-* **Multi-Account Management:** Bank accounts, physical cash, credit lines, brokerage balances, and savings wallets.
-* **Atomic Fund Transfers:** Double-entry-consistent transfers between accounts.
-* **Recurring Budgets:** Daily, weekly, monthly, quarterly, and annual budget cycles with calendar-aware month-end handling.
-* **Multi-Asset Portfolio Tracking:** Indian equities, mutual funds, cryptocurrencies, physical gold, and Sovereign Gold Bonds.
-* **Indian Market Data:** NSE/BSE equity pricing and NIFTY 50 / SENSEX benchmark tracking.
-* **Mutual Fund NAV Synchronization:** AMFI-backed daily NAV tracking.
-* **Server-Side Market Caching:** Persistent `stockPriceCache` and `mfNavCache` systems to reduce redundant external API calls.
-* **Statement Ingestion:** CAMS, KFintech, Zerodha, and Groww investment statement imports across supported PDF, CSV, and XLSX formats.
-* **Security:** 6-digit master PIN, cloud-salted SHA-256 verification, inactivity timeout, and privacy masking.
-* **Cloud-First Architecture:** Convex-powered real-time subscriptions, mutations, actions, and scheduled jobs.
-* **Connectivity Protection:** `NoInternetScreen` prevents unsynchronized operations during network interruptions.
+### Financial Management
 
-#### Technology
+* Income and expense tracking
+* Multiple bank accounts
+* Cash wallets
+* Credit accounts
+* Savings accounts
+* Brokerage balances
+* Transfers between accounts
+* Recurring budgets
+* Spending analysis
+* Calendar-aware budget cycles
 
-| Layer            | Technology                                    |
-| :--------------- | :-------------------------------------------- |
-| Frontend         | React 19, TypeScript, Vite                    |
-| Backend          | Convex                                        |
-| Database         | Convex Reactive Document Database             |
-| Authentication   | Convex Auth                                   |
-| Styling          | Tailwind CSS                                  |
-| Visualizations   | Recharts                                      |
-| Document Parsing | PDF.js, XLSX, PapaParse                       |
-| Market Data      | Equity, mutual fund, crypto and bullion feeds |
-| Security         | 6-digit PIN with cloud-salted SHA-256         |
-| Persistence      | Server-authoritative cloud state              |
+### Investment Tracking
 
-#### Engineering Focus
+* Indian equities
+* Mutual funds
+* Cryptocurrency
+* Gold
+* Sovereign Gold Bonds
+* Portfolio allocation
+* Principal invested
+* Current market value
+* Absolute profit/loss
+* ROI
+* Portfolio growth
+* NIFTY 50 and SENSEX benchmark tracking
 
-Panam Paaru uses a **server-authoritative architecture** instead of relying on fragmented browser state. External market fetching, rate limiting, caching, and synchronization are handled through the Convex backend.
+### Live Valuation
 
-The statement ingestion pipeline supports automated identification and mapping of scheme names, folio references, transaction dates, units, acquisition costs, and current valuations.
+Panam Paaru calculates portfolio value using current market data rather than relying only on historical investment amounts.
+
+```text
+Units × Current Market Price / NAV = Current Value
+```
+
+The system combines external market data with persistent server-side caching to reduce redundant API calls and improve synchronization performance.
+
+### Market Data & APIs
+
+* **AMFI** for mutual fund NAV data
+* **Equity market data APIs** for Indian stock prices
+* **NIFTY 50 / SENSEX** benchmark data
+* **CoinGecko API** for cryptocurrency prices
+* **Server-side Convex caching** for synchronized market data
+
+### Statement Import
+
+Users can import supported investment statements instead of manually entering their entire portfolio.
+
+Supported sources include:
+
+* CAMS
+* KFintech
+* Zerodha
+* Groww
+
+Supported formats include:
+
+* PDF
+* CSV
+* XLSX
+
+The ingestion pipeline extracts and normalizes information such as scheme names, folio references, transaction dates, units, acquisition costs, and valuations.
+
+### Backend Architecture
+
+Panam Paaru uses **Convex** as its cloud backend and reactive database.
+
+Key architecture components include:
+
+* Reactive database subscriptions
+* Server-side mutations
+* Backend actions
+* Scheduled cron jobs
+* Persistent market-data caches
+* Server-authoritative financial state
+* Connectivity monitoring
+* Cloud-based authentication
+* Background synchronization
+
+### Security & Privacy
+
+* 6-digit master PIN
+* Cloud-salted SHA-256 verification
+* Virtual keypad
+* Physical keyboard PIN input
+* Configurable inactivity timeout
+* Global privacy mode
+* Monetary value masking
+* Network connectivity guard
+
+### Technology Stack
+
+| Layer                  | Technology                          |
+| :--------------------- | :---------------------------------- |
+| Frontend               | React 19                            |
+| Language               | TypeScript                          |
+| Build Tool             | Vite                                |
+| Backend                | Convex                              |
+| Database               | Convex Reactive Database            |
+| Authentication         | Convex Auth / Google OAuth          |
+| Styling                | Tailwind CSS                        |
+| Charts                 | Recharts                            |
+| PDF Processing         | PDF.js                              |
+| Spreadsheet Processing | XLSX                                |
+| CSV Processing         | PapaParse                           |
+| Market Data            | AMFI, Equity Market APIs, CoinGecko |
+| Deployment             | Vercel                              |
+
+### Architecture
+
+```text
+                         PANAM PAARU
+                              │
+             ┌────────────────┴────────────────┐
+             │                                 │
+       React + TypeScript                 External APIs
+             │                                 │
+       Vite + Tailwind                 ┌────────┼────────┐
+             │                         │        │        │
+             │                       AMFI   Equity   CoinGecko
+             │                         │        │        │
+             └──────────────┬──────────┴────────┴────────┘
+                            │
+                       Convex Cloud
+                            │
+             ┌──────────────┼──────────────┐
+             │              │              │
+          Database       Caching         Cron Jobs
+             │              │              │
+             ├──── stockPriceCache        │
+             └──── mfNavCache             │
+                            │
+                       User Portfolio
+                            │
+                   Real-Time Valuation
+```
+
+### Live
+
+<a href="https://panampaaru.vercel.app">Live Website</a>
 
 <a href="https://github.com/pranaveshn2023-dotcom/Panam-Paaru">GitHub Repository</a>
 
 ---
 
-### <a href="https://valarchix.vercel.app">ValarchiX — Personal Financial Intelligence Platform</a>
+## <a href="https://valarchix.vercel.app">ValarchiX — Personal Financial Intelligence Platform</a>
 
 > **Turn financial complexity into clear, actionable intelligence.**
 
-* **Valarchi Vaathi:** Interactive AI-powered finance learning assistant.
-* **Financial Simulators:** Mutual fund analysis and inflation-adjusted retirement tools.
-* **Privacy-First:** Supabase-backed storage with Google OAuth and PIN-based application security.
-* **Financial Intelligence:** Tools designed to help users understand investments and personal finance.
-* **Continuous Development:** Ongoing product refinement and feature development.
+ValarchiX is a personal finance platform focused on helping users understand investments, financial concepts, and long-term financial planning.
+
+### Features
+
+* **Valarchi Vaathi** — AI-powered financial learning assistant
+* Mutual fund analysis
+* Financial simulators
+* Inflation-adjusted retirement calculations
+* Personal finance education
+* Financial data visualization
+* Google OAuth
+* Supabase-backed data storage
+* PIN-based privacy protection
+
+### Technology
+
+```text
+React
+TypeScript
+Supabase
+Google OAuth
+AI APIs
+Financial Data APIs
+Vercel
+```
 
 <a href="https://valarchix.vercel.app">Live Website</a> · <a href="https://www.producthunt.com/products/valarchix">Product Hunt</a>
 
 ---
 
-### <a href="https://chromewebstore.google.com/detail/marakadhey/inidbaohifkncdjnondbkljhoogkhnce">Marakadhey — Opportunity & Reminder Utility</a>
+## <a href="https://chromewebstore.google.com/detail/marakadhey/inidbaohifkncdjnondbkljhoogkhnce">Marakadhey — Opportunity & Reminder System</a>
 
-> **Never miss opportunities & deadlines — capture on the browser, track on your phone.**
+> **Never miss opportunities and deadlines.**
 
-* **Android App:** Opportunity tracking, reminders, and quick capture.
-* **Browser Extension:** Save opportunities, hackathons, and deadlines directly from the browser.
-* **Automated Reminders:** Recurrence scheduling, snooze support, and notification triggers.
-* **Calendar Integration:** Google Calendar integration and cloud synchronization.
-* **Multi-Platform:** Chrome, Edge, and Android.
+Marakadhey is a cross-platform opportunity tracking and reminder system designed for capturing opportunities directly from the browser and managing them from mobile.
+
+### Features
+
+* Browser-based opportunity capture
+* Automatic metadata extraction
+* Hackathon and opportunity tracking
+* Deadline tracking
+* Recurring reminders
+* Snooze functionality
+* Push notifications
+* Google Calendar integration
+* Cloud synchronization
+* Chrome Extension
+* Edge Extension
+* Android application
+
+### Platforms
+
+* Chrome Web Store
+* Microsoft Edge Add-ons
+* Android
 
 <a href="https://pranaveshn.vercel.app/marakadhey_mobile.apk">Android APK</a> · <a href="https://chromewebstore.google.com/detail/marakadhey/inidbaohifkncdjnondbkljhoogkhnce">Chrome Web Store</a> · <a href="https://microsoftedge.microsoft.com/addons/detail/marakadhey%E2%80%93never-miss-opp/cmndbipcnkkmeojkioajenbckapcfpla">Edge Add-ons</a> · <a href="https://www.producthunt.com/products/marakadhey/marakadhey/launch-day?utm_source=my-products">Product Hunt</a>
 
 ---
 
-### <a href="https://sikkanam.vercel.app">Sikkanam — Travel & Budget Route Planner PWA</a>
+## <a href="https://sikkanam.vercel.app">Sikkanam — Travel & Budget Route Planner</a>
 
 > **Travel smart. Spend Sikkanam.**
 
-* **Route Planning:** Custom OSRM-based route calculations.
-* **Transit Fare Pipeline:** TNSTC and IRCTC fare estimation across 80+ cities.
-* **AI Trip Planner:** Gemini and Groq LLaMA-powered itinerary generation.
-* **Budget Planning:** Travel planning with practical spending considerations.
-* **Progressive Web App:** Cross-device web experience.
+Sikkanam is a Progressive Web App designed for travel planning with route optimization, transport fare estimation, AI itinerary generation, and budget planning.
+
+### Features
+
+* Route planning
+* Distance and travel-time estimation
+* OSRM-based routing
+* TNSTC fare estimation
+* IRCTC fare estimation
+* Multi-city travel planning
+* AI itinerary generation
+* Travel budget planning
+* PWA deployment
+
+### APIs & Services
+
+* **OSRM** — route and distance calculations
+* **Gemini** — AI itinerary generation
+* **Groq / LLaMA** — AI generation workflows
+* **TNSTC data** — bus fare estimation
+* **IRCTC data** — train fare estimation
 
 <a href="https://sikkanam.vercel.app">Live Website</a> · <a href="https://www.producthunt.com/products/sikkanam">Product Hunt</a>
 
 ---
 
-### Speech Enhancement System
+## Speech Enhancement System
 
-> **Academic Digital Signal Processing Project**
+> **Digital Signal Processing Project**
 
-* **Adaptive Kalman Filtering:** Noise reduction for speech signals.
-* **Spectral Post-Processing:** Spectral enhancement and noise suppression.
-* **DSP Modeling:** Mathematical modeling of non-stationary speech signals using MATLAB.
-* **Signal Evaluation:** Objective evaluation of speech enhancement performance.
+An academic DSP project focused on speech enhancement under noisy conditions.
+
+### Core Work
+
+* Adaptive Kalman filtering
+* Speech noise reduction
+* Spectral post-processing
+* MMSE-LSA spectral enhancement
+* MATLAB implementation
+* Speech-quality evaluation
+* SNR-based experimentation
+* Signal analysis and visualization
+
+### Tools
+
+```text
+MATLAB
+Digital Signal Processing
+Kalman Filtering
+MMSE-LSA
+Signal Analysis
+Speech Processing
+```
+
+---
 
 <hr />
 
@@ -257,33 +492,37 @@ The statement ingestion pipeline supports automated identification and mapping o
   <h2>Experience & Academic Background</h2>
 </div>
 
-| Organization / Institution     | Role / Program   | Period              | Key Highlights                                                                                                                 |
-| :----------------------------- | :--------------- | :------------------ | :----------------------------------------------------------------------------------------------------------------------------- |
-| **Danfoss Industries Pvt Ltd** | Student Intern   | *05/2026 – 07/2026* | Built SharePoint-integrated Power Apps Timesheet System and interactive Power BI dashboards.                                   |
-| **VIT Chennai**                | B.Tech in ECE    | *08/2023 – 04/2027* | Electronics & Communication Engineering with focus areas including DSP, software systems, and AI-assisted product development. |
-| **IIT Madras**                 | BS Foundation L1 | *Completed*         | Foundational certification in Computer Science & Logic.                                                                        |
-| **CSC Computer Education**     | Certification    | *Completed*         | Foundational programming and computing concepts.                                                                               |
+| Organization / Institution     | Role / Program   | Period            | Key Highlights                                                                                                                 |
+| :----------------------------- | :--------------- | :---------------- | :----------------------------------------------------------------------------------------------------------------------------- |
+| **Danfoss Industries Pvt Ltd** | Student Intern   | 05/2026 – 07/2026 | Built SharePoint-integrated Power Apps Timesheet System and interactive Power BI dashboards.                                   |
+| **VIT Chennai**                | B.Tech in ECE    | 08/2023 – 04/2027 | Electronics & Communication Engineering with focus areas including DSP, software systems, and AI-assisted product development. |
+| **IIT Madras**                 | BS Foundation L1 | Completed         | Foundational certification in Computer Science and Logic.                                                                      |
+| **CSC Computer Education**     | Certification    | Completed         | Foundational programming and computing concepts.                                                                               |
 
-<hr />
+---
 
 <div align="center">
-  <h2>Areas of Focus</h2>
+  <h2>Core Areas</h2>
 </div>
 
-| Area                          | Focus                                                                         |
-| :---------------------------- | :---------------------------------------------------------------------------- |
-| **FinTech**                   | Personal finance, portfolio intelligence, market data and financial analytics |
-| **AI Products**               | AI-assisted development, AI interfaces and intelligent workflows              |
-| **Web Products**              | React, TypeScript, PWA and product-focused web development                    |
-| **Mobile**                    | Android and React Native applications                                         |
-| **Data & Analytics**          | Power BI, financial data, dashboards and visualization                        |
-| **Digital Signal Processing** | Kalman filtering, speech enhancement and MATLAB                               |
-| **Product Engineering**       | Architecture, rapid prototyping, iteration and deployment                     |
+| Area                   | Technologies / Focus                                                    |
+| :--------------------- | :---------------------------------------------------------------------- |
+| **FinTech**            | Personal finance, portfolio tracking, investment analytics, market data |
+| **AI Products**        | Gemini, Groq/LLaMA, AI-assisted development, AI workflows               |
+| **Frontend**           | React, TypeScript, Tailwind CSS, Vite                                   |
+| **Backend**            | Convex, Supabase, Firebase                                              |
+| **Mobile**             | Android, React Native                                                   |
+| **Browser Extensions** | Chrome Extensions, Edge Add-ons                                         |
+| **Data & Analytics**   | Power BI, Recharts, financial data processing                           |
+| **APIs**               | AMFI, CoinGecko, OSRM, Google OAuth, Google Calendar                    |
+| **DSP**                | MATLAB, Kalman filtering, speech enhancement                            |
+| **Cloud & Deployment** | Vercel, Convex Cloud, Supabase                                          |
+| **Enterprise Tools**   | Power Apps, SharePoint, Power BI                                        |
 
-<hr />
+---
 
 <div align="center">
-  <h2>GitHub Activity & Builder Metrics</h2>
+  <h2>GitHub Activity</h2>
 
   <br />
 
@@ -299,21 +538,23 @@ The statement ingestion pipeline supports automated identification and mapping o
 
   <br />
 
-  <p>
-    <a href="https://pranaveshn.vercel.app/">
-      <img src="https://img.shields.io/badge/Portfolio-Visit_My_Work-ea580c?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-    </a>
-    &nbsp;
-    <a href="https://github.com/pranavesh-n">
-      <img src="https://img.shields.io/badge/GitHub-Explore_My_Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-    </a>
-    &nbsp;
-    <a href="https://www.linkedin.com/in/pranaveshn">
-      <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-  </p>
+  <a href="https://pranaveshn.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit_My_Work-ea580c?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
 
-  <br />
+ 
+
+  <a href="https://github.com/pranavesh-n">
+    <img src="https://img.shields.io/badge/GitHub-Explore_My_Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+
+ 
+
+  <a href="https://www.linkedin.com/in/pranaveshn">
+    <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+
+<br /><br />
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&custom_color_list=ea580c,8b5cf6,10b981&height=100&section=footer" width="100%" alt="Footer Banner" />
 
