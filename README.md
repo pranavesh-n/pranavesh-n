@@ -62,6 +62,8 @@ I am an Electronics & Communication Engineering student at VIT Chennai who build
 
 <br />
 
+💰 Latest Build: <a href="https://panampaaru.vercel.app"><b>Panam Paaru (பணம் பாரு)</b></a> — Real-time Personal Finance & Portfolio Intelligence Platform (Neo-Brutalist UI, reactive Convex backend, live Indian market data engine).
+
 🧬 Shipped & Refining: <a href="https://valarchix.vercel.app"><b>ValarchiX</b></a> — Personal Financial Intelligence Platform (Live & Product Hunt featured; actively refining & optimizing with new features).
 
 📌 Cross-Platform Utility: <a href="https://chromewebstore.google.com/detail/marakadhey/inidbaohifkncdjnondbkljhoogkhnce"><b>Marakadhey</b></a> — Opportunity & Reminder System available as Chrome & Edge Extension and Android Mobile App (<a href="https://pranaveshn.vercel.app/marakadhey_mobile.apk">Direct APK</a>).
@@ -112,6 +114,8 @@ I am an Electronics & Communication Engineering student at VIT Chennai who build
     &nbsp;
     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
     &nbsp;
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+    &nbsp;
     <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind" />
     &nbsp;
     <img src="https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white" alt="PWA" />
@@ -132,6 +136,8 @@ I am an Electronics & Communication Engineering student at VIT Chennai who build
     <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
     &nbsp;
     <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+    &nbsp;
+    <img src="https://img.shields.io/badge/Convex-EE342F?style=for-the-badge&logo=convex&logoColor=white" alt="Convex" />
   </p>
 
   <br />
@@ -160,21 +166,35 @@ I am an Electronics & Communication Engineering student at VIT Chennai who build
 
 <br />
 
-📌 <a href="https://chromewebstore.google.com/detail/marakadhey/inidbaohifkncdjnondbkljhoogkhnce">Marakadhey — Opportunity & Reminder Utility (Web & Android Mobile)</a>
+💰 <a href="https://panampaaru.vercel.app">Panam Paaru (பணம் பாரு) — Real-Time Personal Finance & Portfolio Intelligence</a>
 
-Never miss opportunities & deadlines — capture on the browser, track on your phone.
+*See Your Money, Control Your Spending.*
 
-📱 Android Mobile App: Full-featured on-the-go opportunity tracking, push reminders, and quick capture.
+A high-precision personal finance and multi-asset portfolio tracker built with a high-contrast Neo-Brutalist design language, atomic double-entry banking accounts, calendar-aware budgets, and a reactive Convex cloud backend.
 
-⚡ 1-Click Web Extension: Save opportunities, hackathons, and deadlines instantly with auto-parsed metadata.
+🏦 Zero-Baseline Ledger: Clean account setup with no placeholder clutter or synthetic mock balances.
 
-⏰ Automated Reminders: Recurrence scheduling, snooze support, and custom notification triggers.
+📈 IST Market-Hours Engine: Live 35-second ticks during NSE/BSE trading hours (09:15 AM–03:30 PM IST, Mon–Fri), with zero external API polling on weekends, holidays, and after-hours.
 
-📅 Calendar & Cloud Sync: Integration with Google Calendar and real-time cloud synchronization.
+🌙 Nightly AMC NAV Sync: Automated Convex cron jobs during the 9 PM–12 AM IST mutual fund NAV publishing window.
 
-🌐 Multi-Platform: Published on Chrome Web Store & Edge Add-ons, with direct Android APK release.
+📅 Calendar-Aware Budgets: Deterministic leap-year and month-end rollover handling (28/29/30/31-day months).
 
-🔗 <b>Links:</b> <a href="https://pranaveshn.vercel.app/marakadhey_mobile.apk">📥 <b>Download Android APK</b></a> | <a href="https://chromewebstore.google.com/detail/marakadhey/inidbaohifkncdjnondbkljhoogkhnce">Chrome Web Store</a> | <a href="https://microsoftedge.microsoft.com/addons/detail/marakadhey%E2%80%93never-miss-opp/cmndbipcnkkmeojkioajenbckapcfpla">Edge Add-ons</a> | <a href="https://www.producthunt.com/products/marakadhey/marakadhey/launch-day?utm_source=my-products">Product Hunt Launch</a>
+📄 Universal Statement Ingestion: Client-side parsing of CAMS, KFintech, Zerodha & Groww statements (PDF, XLSX, CSV) via `Ctrl/Cmd + U`.
+
+🔒 Enterprise Privacy: 6-digit cloud-salted master PIN, configurable auto-lock, and instant numeric privacy blur.
+
+🧱 Stack: React 19, TypeScript, Vite, Convex, Tailwind CSS, Recharts.
+
+<div align="center">
+  <br />
+  <img src="./panampaaruarch.png" width="90%" alt="Panam Paaru Architecture" />
+  <br />
+</div>
+
+🔗 <b>Links:</b> <a href="https://panampaaru.vercel.app">Live Website</a> | <a href="https://github.com/pranaveshn2023-dotcom/Panam-Paaru">GitHub Repo</a>
+
+<br />
 
 <br />
 
@@ -190,7 +210,39 @@ Turn financial complexity into clear, actionable intelligence.
 
 🚀 Continuous Enhancements: Actively refining & optimizing with new features.
 
+<div align="center">
+  <br />
+  <img src="./valarchixarch.png" width="90%" alt="ValarchiX Architecture" />
+  <br />
+</div>
+
 🔗 Links: <a href="https://valarchix.vercel.app">Live Website</a> | <a href="https://www.producthunt.com/products/valarchix">Product Hunt Page</a>
+
+<br />
+
+<br />
+
+📌 <a href="https://chromewebstore.google.com/detail/marakadhey/inidbaohifkncdjnondbkljhoogkhnce">Marakadhey — Opportunity & Reminder Utility (Web & Android Mobile)</a>
+
+Never miss opportunities & deadlines — capture on the browser, track on your phone.
+
+📱 Android Mobile App: Full-featured on-the-go opportunity tracking, push reminders, and quick capture.
+
+⚡ 1-Click Web Extension: Save opportunities, hackathons, and deadlines instantly with auto-parsed metadata.
+
+⏰ Automated Reminders: Recurrence scheduling, snooze support, and custom notification triggers.
+
+📅 Calendar & Cloud Sync: Integration with Google Calendar and real-time cloud synchronization.
+
+🌐 Multi-Platform: Published on Chrome Web Store & Edge Add-ons, with direct Android APK release.
+
+<div align="center">
+  <br />
+  <img src="./marakadheyarch.png" width="90%" alt="Marakadhey Architecture" />
+  <br />
+</div>
+
+🔗 <b>Links:</b> <a href="https://pranaveshn.vercel.app/marakadhey_mobile.apk">📥 <b>Download Android APK</b></a> | <a href="https://chromewebstore.google.com/detail/marakadhey/inidbaohifkncdjnondbkljhoogkhnce">Chrome Web Store</a> | <a href="https://microsoftedge.microsoft.com/addons/detail/marakadhey%E2%80%93never-miss-opp/cmndbipcnkkmeojkioajenbckapcfpla">Edge Add-ons</a> | <a href="https://www.producthunt.com/products/marakadhey/marakadhey/launch-day?utm_source=my-products">Product Hunt Launch</a>
 
 <br />
 
@@ -207,6 +259,12 @@ Travel smart. Spend Sikkanam.
 🤖 AI Trip Planner: Gemini & Groq LLaMA AI itinerary generation.
 
 ⚡ Google SEO indexed site: number 1 site in google indexing by searching with the name sikkanam.
+
+<div align="center">
+  <br />
+  <img src="./sikkanamarch.png" width="90%" alt="Sikkanam Architecture" />
+  <br />
+</div>
 
 🔗 Links: <a href="https://sikkanam.vercel.app">Live Website</a> | <a href="https://www.producthunt.com/products/sikkanam">Product Hunt Page</a>
 
@@ -236,45 +294,12 @@ Academic Digital Signal Processing Project
 
 <br />
 
-Organization / Institution
-
-Role / Program
-
-Period
-
-Key Highlights
-
-Danfoss Industries Pvt Ltd
-
-Student Intern
-
-05/2026 – 07/2026
-
-Built SharePoint-integrated Power Apps Timesheet System & interactive Power BI dashboards.
-
-VIT Chennai
-
-BTech in ECE
-
-08/2023 – 04/2027
-
-CGPA: 7.71 • ECE Systems, Digital Signal Processing, and AI Product Engineering.
-
-IIT Madras
-
-BS Foundation L1
-
-Completed
-
-Foundational Certification in Computer Science & Logic.
-
-CSC Computer Education
-
-Certification
-
-Completed
-
-Foundational programming & computing concepts.
+| Organization / Institution | Role / Program | Period | Key Highlights |
+| :--- | :--- | :--- | :--- |
+| Danfoss Industries Pvt Ltd | Student Intern | 05/2026 – 07/2026 | Built SharePoint-integrated Power Apps Timesheet System & interactive Power BI dashboards. |
+| VIT Chennai | BTech in ECE | 08/2023 – 04/2027 | CGPA: 7.71 • ECE Systems, Digital Signal Processing, and AI Product Engineering. |
+| IIT Madras | BS Foundation L1 | Completed | Foundational Certification in Computer Science & Logic. |
+| CSC Computer Education | Certification | Completed | Foundational programming & computing concepts. |
 
 <br />
 
