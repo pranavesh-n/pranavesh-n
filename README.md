@@ -178,7 +178,7 @@ I am an **Electronics & Communication Engineering** student at **VIT Chennai** w
 
 * 👨‍🏫 **Valarchi Vaathi:** Interactive AI-powered finance learning assistant.
 * 📊 **Financial Simulators:** Mutual Fund analyzers & inflation-adjusted retirement tools.
-* 🔒 **Privacy-First:** 100% local client data storage.
+* 🔒 **Privacy-First:** 100% safe storage in supabase with OAuth using google and 4 digit PIN enabled in order to inensure the data security.
 * 🚀 **Continuous Enhancements:** Actively refining & optimizing with new features.
 * 🔗 **Links:** <a href="https://valarchix.vercel.app">Live Website</a> | <a href="https://www.producthunt.com/products/valarchix">Product Hunt Page</a>
 
@@ -195,7 +195,7 @@ I am an **Electronics & Communication Engineering** student at **VIT Chennai** w
 * 🗺️ **Custom OSRM Engine:** Dynamic 1.25x – 1.40x traffic & mountain terrain scaling.
 * 🚆 **Transit Fare Pipeline:** TNSTC & IRCTC fare estimation across 80+ cities.
 * 🤖 **AI Trip Planner:** Gemini & Groq LLaMA AI itinerary generation.
-* ⚡ **Lighthouse Benchmark:** 💯 SEO & 96 Accessibility score.
+* ⚡ **Google SEO indexed site:** number 1 site in google indexing by searching with the name sikkanam.
 * 🔗 **Links:** <a href="https://sikkanam.vercel.app">Live Website</a> | <a href="https://www.producthunt.com/products/sikkanam">Product Hunt Page</a>
 
 <br />
