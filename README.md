@@ -166,7 +166,7 @@ I am an Electronics & Communication Engineering student at VIT Chennai who build
 
 <br />
 
-💰 <a href="https://panampaaru.vercel.app">Panam Paaru (பணம் பாரு) — Real-Time Personal Finance & Portfolio Intelligence</a>
+💰 <a href="https://panampaaru.vercel.app">Panam Paaru — Real-Time Personal Finance & Portfolio Intelligence</a>
 
 *See Your Money, Control Your Spending.*
 
