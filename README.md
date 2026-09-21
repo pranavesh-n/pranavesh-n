@@ -72,7 +72,7 @@ I am an Electronics & Communication Engineering student at VIT Chennai who build
 
 💼 Industry Experience: Former Student Intern at Danfoss Industries (Power Apps & Power BI business analytics).
 
-🎯 Core Superpower: Rapid product building, user-centric problem solving, and AI prompt engineering.
+🎯 Core Superpower: Rapid product building, user-centric problem solving, and AI & LLM Harness engineering.
 
 <br />
 
@@ -170,21 +170,23 @@ I am an Electronics & Communication Engineering student at VIT Chennai who build
 
 *See Your Money, Control Your Spending.*
 
-A high-precision personal finance and multi-asset portfolio tracker built with a high-contrast Neo-Brutalist design language, atomic double-entry banking accounts, calendar-aware budgets, and a reactive Convex cloud backend.
+A real-time personal finance and multi-asset wealth tracker built with a high-contrast Neo-Brutalist design language, atomic double-entry banking ledgers, calendar-aware budget cycles, and a reactive Convex cloud backend.
 
-🏦 Zero-Baseline Ledger: Clean account setup with no placeholder clutter or synthetic mock balances.
+🏦 Zero-Baseline Ledger: Clean, verifiable account initialization without placeholder clutter or synthetic mock balances.
 
-📈 IST Market-Hours Engine: Live 35-second ticks during NSE/BSE trading hours (09:15 AM–03:30 PM IST, Mon–Fri), with zero external API polling on weekends, holidays, and after-hours.
+📈 IST Market Engine: Sub-minute (35s) live ticks during NSE/BSE trading hours (09:15 AM – 03:30 PM IST) with a 3-stage close settlement pipeline and zero API calls on weekends, holidays, or off-hours.
 
-🌙 Nightly AMC NAV Sync: Automated Convex cron jobs during the 9 PM–12 AM IST mutual fund NAV publishing window.
+🌙 Nightly AMC NAV Sync: Automated Convex crons synchronizing verified AMFI mutual fund valuations across active holdings during the 9:00 PM – 12:00 AM IST window.
 
-📅 Calendar-Aware Budgets: Deterministic leap-year and month-end rollover handling (28/29/30/31-day months).
+📊 Spending Insights Hub: Real-time spending analytics with 6-month trailing income vs. expense area trends, daily burn-rate telemetry, and category distributions.
 
-📄 Universal Statement Ingestion: Client-side parsing of CAMS, KFintech, Zerodha & Groww statements (PDF, XLSX, CSV) via `Ctrl/Cmd + U`.
+📅 Calendar-Aware Budgets: Deterministic month-end and leap-year rollover logic (28/29/30/31-day months) with low-balance thresholds and automated wallet funding.
 
-🔒 Enterprise Privacy: 4 and 6-digit cloud-salted master PIN, configurable auto-lock, and instant numeric privacy blur.
+📄 Universal Statement Ingestion: Direct client-side parsing of CAMS, KFintech, Zerodha, and Groww files (PDF, XLSX, CSV, DOCX) via Ctrl/Cmd + U with 1-click batch undo.
 
-🧱 Stack: React 19, TypeScript, Vite, Convex, Tailwind CSS, Recharts.
+🔒 Enterprise Screen Privacy: 4 and 6-digit cloud-salted master PIN with virtual keypad, configurable idle lock, transitional session shielding, and single-click numeric blur.
+
+🧱 Modern Stack: React 19, TypeScript, Vite, Convex Cloud DB, Tailwind CSS v4, Recharts, Sonner.
 
 <div align="center">
   <br />
