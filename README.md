@@ -68,7 +68,7 @@ I am an Electronics & Communication Engineering student at VIT Chennai who build
 
 📌 Cross-Platform Utility: <a href="https://chromewebstore.google.com/detail/marakadhey/inidbaohifkncdjnondbkljhoogkhnce"><b>Marakadhey</b></a> — Opportunity & Reminder System available as Chrome & Edge Extension and Android Mobile App (<a href="https://pranaveshn.vercel.app/marakadhey_mobile.apk">Direct APK</a>).
 
-🚀 Production Products: <a href="https://sikkanam.vercel.app"><b>Sikkanam</b></a> (Tamil Nadu Travel Planner PWA), & Speech Enhancement System (DSP).
+🚀 Production & Refining Products: <a href="https://sikkanam.vercel.app"><b>Sikkanam</b></a> (Tamil Nadu Travel Planner PWA), & <a href="https://panampaaru.vercel.app"><b>PanamPaaru</b></a> (Live investment and expense tracker PWA).
 
 💼 Industry Experience: Former Student Intern at Danfoss Industries (Power Apps & Power BI business analytics).
 
@@ -188,7 +188,7 @@ A high-precision personal finance and multi-asset portfolio tracker built with a
 
 <div align="center">
   <br />
-  <img src="./panampaaruarch.png" width="50%" alt="Panam Paaru Architecture" />
+  <img src="./panampaaruarch.png" width="100%" alt="Panam Paaru Architecture" />
   <br />
 </div>
 
