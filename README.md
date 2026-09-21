@@ -182,13 +182,13 @@ A high-precision personal finance and multi-asset portfolio tracker built with a
 
 📄 Universal Statement Ingestion: Client-side parsing of CAMS, KFintech, Zerodha & Groww statements (PDF, XLSX, CSV) via `Ctrl/Cmd + U`.
 
-🔒 Enterprise Privacy: 6-digit cloud-salted master PIN, configurable auto-lock, and instant numeric privacy blur.
+🔒 Enterprise Privacy: 4 and 6-digit cloud-salted master PIN, configurable auto-lock, and instant numeric privacy blur.
 
 🧱 Stack: React 19, TypeScript, Vite, Convex, Tailwind CSS, Recharts.
 
 <div align="center">
   <br />
-  <img src="./panampaaruarch.png" width="90%" alt="Panam Paaru Architecture" />
+  <img src="./panampaaruarch.png" width="50%" alt="Panam Paaru Architecture" />
   <br />
 </div>
 
