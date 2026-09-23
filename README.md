@@ -66,7 +66,12 @@ I am an Electronics & Communication Engineering student at VIT Chennai who build
 
 🧬 Shipped & Refining: <a href="https://valarchix.vercel.app"><b>ValarchiX</b></a> — Personal Financial Intelligence Platform (Live & Product Hunt featured; actively refining & optimizing with new features).
 
-📌 Cross-Platform Utility: <a href="https://chromewebstore.google.com/detail/marakadhey/inidbaohifkncdjnondbkljhoogkhnce"><b>Marakadhey</b></a> — Opportunity & Reminder System available as Chrome & Edge Extension and Android Mobile App (<a href="https://pranaveshn.vercel.app/marakadhey_mobile.apk">Direct APK</a>).
+📌 Cross-Platform Utility: Marakadhey — Never Miss Opportunities is available in 
+<a href="https://chromewebstore.google.com/detail/inidbaohifkncdjnondbkljhoogkhnce?utm_source=item-share-cb"><b>Chrome Extension</b></a>
+&
+<a href="https://microsoftedge.microsoft.com/addons/detail/marakadhey%E2%80%93never-miss-opp/cmndbipcnkkmeojkioajenbckapcfpla"><b>Edge Extension</b></a>
+and Android Mobile App
+(<a href="https://pranaveshn.vercel.app/marakadhey_mobile.apk"><b>Direct APK</b></a>).
 
 🚀 Production & Refining Products: <a href="https://sikkanam.vercel.app"><b>Sikkanam</b></a> (Tamil Nadu Travel Planner PWA), & <a href="https://panampaaru.vercel.app"><b>PanamPaaru</b></a> (Live investment and expense tracker PWA).
 
