@@ -269,7 +269,7 @@ Travel smart. Spend Sikkanam.
 
 <div align="center">
   <br />
-  <img src="./sikkanamarch.png" width="90%" alt="Sikkanam Architecture" />
+  <img src="./sikkanamarch.png" width="100%" alt="Sikkanam Architecture" />
   <br />
 </div>
 
