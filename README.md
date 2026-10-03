@@ -66,7 +66,7 @@ I am an Electronics & Communication Engineering student at VIT Chennai who build
 
 <br />
 
-- 💰 **Latest Build:** [**Panam Paaru**](https://panampaaru.vercel.app) — Real-time Personal Finance & Portfolio Intelligence Platform (Neo-Brutalist UI, reactive Convex backend, live Indian market data engine). Now live on [**Product Hunt**](https://www.producthunt.com/products/panam-paaru?launch=panam-paaru).
+- 💰 **Latest Build:** [**Panam Paaru**](https://panampaaru.vercel.app) — Real-time Personal Finance & Portfolio Intelligence Platform (Neo-Brutalist UI, reactive Convex backend, live Indian market data engine).
 - 🧬 **Shipped & Refining:** [**ValarchiX**](https://valarchix.vercel.app) — Personal Financial Intelligence Platform (Live & Product Hunt featured; actively refining & optimizing with new features).
 - 📌 **Cross-Platform Utility:** **Marakadhey** — Never Miss Opportunities, available as a [**Chrome Extension**](https://chromewebstore.google.com/detail/inidbaohifkncdjnondbkljhoogkhnce?utm_source=item-share-cb), an [**Edge Extension**](https://microsoftedge.microsoft.com/addons/detail/marakadhey%E2%80%93never-miss-opp/cmndbipcnkkmeojkioajenbckapcfpla) and an Android app ([**Direct APK**](https://pranaveshn.vercel.app/marakadhey_mobile.apk)).
 - 🚀 **Production & Refining Products:** [**Sikkanam**](https://sikkanam.vercel.app) (Tamil Nadu Travel Planner PWA) & [**Panam Paaru**](https://panampaaru.vercel.app) (Live investment and expense tracker PWA).
@@ -186,7 +186,7 @@ A real-time personal finance and multi-asset wealth tracker built with a high-co
   <br />
 </div>
 
-🔗 **Links:** [Live Website](https://panampaaru.vercel.app) | [GitHub Repo](https://github.com/pranaveshn2023-dotcom/Panam-Paaru) | [Product Hunt Page](https://www.producthunt.com/products/panam-paaru?launch=panam-paaru)
+🔗 **Links:** [Live Website](https://panampaaru.vercel.app) | [Product Hunt Page](https://www.producthunt.com/products/panam-paaru?launch=panam-paaru)
 
 <br />
 
