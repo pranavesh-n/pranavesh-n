@@ -8,7 +8,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=EA580C&center=true&vCenter=true&width=750&lines=AI-Assisted+Product+Builder;Solving+Real+Problems+%3E+Mugging+Up+Syntax;Idea+%E2%86%92+AI+Architecture+%E2%86%92+Product+%E2%86%92+Production;Leveraging+Cursor+%7C+Antigravity+%7C+Bolt+%7C+Lovable" alt="Typing Subtitle" />
   </a>
 
-<br /><br />
+  <br /><br />
 
   <p>
     <a href="https://pranaveshn.vercel.app/">
@@ -25,6 +25,10 @@
     &nbsp;
     <a href="https://github.com/pranavesh-n">
       <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    </a>
+    &nbsp;
+    <a href="https://www.producthunt.com/products/panam-paaru?launch=panam-paaru">
+      <img src="https://img.shields.io/badge/Product_Hunt-Panam_Paaru-DA552F?style=for-the-badge&logo=producthunt&logoColor=white" alt="Product Hunt"/>
     </a>
   </p>
 
@@ -50,7 +54,7 @@
   <h2>⚡ About Me & Builder Philosophy</h2>
 </div>
 
-"I don't mug up programming languages. I leverage modern AI tools to solve real-world problems and ship production-ready products."
+> *"I don't mug up programming languages. I leverage modern AI tools to solve real-world problems and ship production-ready products."*
 
 I am an Electronics & Communication Engineering student at VIT Chennai who builds software by combining product design, system architecture, and AI-assisted workflows. Instead of spending months memorizing syntax or algorithms, I use next-generation AI developer tools (Cursor, Antigravity, Bolt.new, Lovable, Emergent, Base44, Codex) to turn ideas into fully functional, deployed products across Web, Mobile & Extensions.
 
@@ -62,22 +66,12 @@ I am an Electronics & Communication Engineering student at VIT Chennai who build
 
 <br />
 
-💰 Latest Build: <a href="https://panampaaru.vercel.app"><b>Panam Paaru </b></a> — Real-time Personal Finance & Portfolio Intelligence Platform (Neo-Brutalist UI, reactive Convex backend, live Indian market data engine).
-
-🧬 Shipped & Refining: <a href="https://valarchix.vercel.app"><b>ValarchiX</b></a> — Personal Financial Intelligence Platform (Live & Product Hunt featured; actively refining & optimizing with new features).
-
-📌 Cross-Platform Utility: Marakadhey — Never Miss Opportunities is available in 
-<a href="https://chromewebstore.google.com/detail/inidbaohifkncdjnondbkljhoogkhnce?utm_source=item-share-cb"><b>Chrome Extension</b></a>
-&
-<a href="https://microsoftedge.microsoft.com/addons/detail/marakadhey%E2%80%93never-miss-opp/cmndbipcnkkmeojkioajenbckapcfpla"><b>Edge Extension</b></a>
-and Android Mobile App
-(<a href="https://pranaveshn.vercel.app/marakadhey_mobile.apk"><b>Direct APK</b></a>).
-
-🚀 Production & Refining Products: <a href="https://sikkanam.vercel.app"><b>Sikkanam</b></a> (Tamil Nadu Travel Planner PWA), & <a href="https://panampaaru.vercel.app"><b>PanamPaaru</b></a> (Live investment and expense tracker PWA).
-
-💼 Industry Experience: Former Student Intern at Danfoss Industries (Power Apps & Power BI business analytics).
-
-🎯 Core Superpower: Rapid product building, user-centric problem solving, and AI & LLM Harness engineering.
+- 💰 **Latest Build:** [**Panam Paaru**](https://panampaaru.vercel.app) — Real-time Personal Finance & Portfolio Intelligence Platform (Neo-Brutalist UI, reactive Convex backend, live Indian market data engine). Now live on [**Product Hunt**](https://www.producthunt.com/products/panam-paaru?launch=panam-paaru).
+- 🧬 **Shipped & Refining:** [**ValarchiX**](https://valarchix.vercel.app) — Personal Financial Intelligence Platform (Live & Product Hunt featured; actively refining & optimizing with new features).
+- 📌 **Cross-Platform Utility:** **Marakadhey** — Never Miss Opportunities, available as a [**Chrome Extension**](https://chromewebstore.google.com/detail/inidbaohifkncdjnondbkljhoogkhnce?utm_source=item-share-cb), an [**Edge Extension**](https://microsoftedge.microsoft.com/addons/detail/marakadhey%E2%80%93never-miss-opp/cmndbipcnkkmeojkioajenbckapcfpla) and an Android app ([**Direct APK**](https://pranaveshn.vercel.app/marakadhey_mobile.apk)).
+- 🚀 **Production & Refining Products:** [**Sikkanam**](https://sikkanam.vercel.app) (Tamil Nadu Travel Planner PWA) & [**Panam Paaru**](https://panampaaru.vercel.app) (Live investment and expense tracker PWA).
+- 💼 **Industry Experience:** Former Student Intern at Danfoss Industries (Power Apps & Power BI business analytics).
+- 🎯 **Core Superpower:** Rapid product building, user-centric problem solving, and AI & LLM harness engineering.
 
 <br />
 
@@ -171,27 +165,20 @@ and Android Mobile App
 
 <br />
 
-💰 <a href="https://panampaaru.vercel.app">Panam Paaru — Real-Time Personal Finance & Portfolio Intelligence</a>
+### 💰 [Panam Paaru — Real-Time Personal Finance & Portfolio Intelligence](https://panampaaru.vercel.app)
 
 *See Your Money, Control Your Spending.*
 
 A real-time personal finance and multi-asset wealth tracker built with a high-contrast Neo-Brutalist design language, atomic double-entry banking ledgers, calendar-aware budget cycles, and a reactive Convex cloud backend.
 
-🏦 Zero-Baseline Ledger: Clean, verifiable account initialization without placeholder clutter or synthetic mock balances.
-
-📈 IST Market Engine: Sub-minute (35s) live ticks during NSE/BSE trading hours (09:15 AM – 03:30 PM IST) with a 3-stage close settlement pipeline and zero API calls on weekends, holidays, or off-hours.
-
-🌙 Nightly AMC NAV Sync: Automated Convex crons synchronizing verified AMFI mutual fund valuations across active holdings during the 9:00 PM – 12:00 AM IST window.
-
-📊 Spending Insights Hub: Real-time spending analytics with 6-month trailing income vs. expense area trends, daily burn-rate telemetry, and category distributions.
-
-📅 Calendar-Aware Budgets: Deterministic month-end and leap-year rollover logic (28/29/30/31-day months) with low-balance thresholds and automated wallet funding.
-
-📄 Universal Statement Ingestion: Direct client-side parsing of CAMS, KFintech, Zerodha, and Groww files (PDF, XLSX, CSV, DOCX) via Ctrl/Cmd + U with 1-click batch undo.
-
-🔒 Enterprise Screen Privacy: 4 and 6-digit cloud-salted master PIN with virtual keypad, configurable idle lock, transitional session shielding, and single-click numeric blur.
-
-🧱 Modern Stack: React 19, TypeScript, Vite, Convex Cloud DB, Tailwind CSS v4, Recharts, Sonner.
+- 🏦 **Zero-Baseline Ledger:** Clean, verifiable account initialization without placeholder clutter or synthetic mock balances.
+- 📈 **IST Market Engine:** Sub-minute (35s) live ticks during NSE/BSE trading hours (09:15 AM – 03:30 PM IST) with a 3-stage close settlement pipeline and zero API calls on weekends, holidays, or off-hours.
+- 🌙 **Nightly AMC NAV Sync:** Automated Convex crons synchronizing verified AMFI mutual fund valuations across active holdings during the 9:00 PM – 12:00 AM IST window.
+- 📊 **Spending Insights Hub:** Real-time spending analytics with 6-month trailing income vs. expense area trends, daily burn-rate telemetry, and category distributions.
+- 📅 **Calendar-Aware Budgets:** Deterministic month-end and leap-year rollover logic (28/29/30/31-day months) with low-balance thresholds and automated wallet funding.
+- 📄 **Universal Statement Ingestion:** Direct client-side parsing of CAMS, KFintech, Zerodha, and Groww files (PDF, XLSX, CSV, DOCX) via `Ctrl/Cmd + U` with 1-click batch undo.
+- 🔒 **Enterprise Screen Privacy:** 4 and 6-digit cloud-salted master PIN with virtual keypad, configurable idle lock, transitional session shielding, and single-click numeric blur.
+- 🧱 **Modern Stack:** React 19, TypeScript, Vite, Convex Cloud DB, Tailwind CSS v4, Recharts, Sonner.
 
 <div align="center">
   <br />
@@ -199,23 +186,22 @@ A real-time personal finance and multi-asset wealth tracker built with a high-co
   <br />
 </div>
 
-🔗 <b>Links:</b> <a href="https://panampaaru.vercel.app">Live Website</a> | <a href="https://github.com/pranaveshn2023-dotcom/Panam-Paaru">GitHub Repo</a>
+🔗 **Links:** [Live Website](https://panampaaru.vercel.app) | [GitHub Repo](https://github.com/pranaveshn2023-dotcom/Panam-Paaru) | [Product Hunt Page](https://www.producthunt.com/products/panam-paaru?launch=panam-paaru)
 
 <br />
 
+---
+
 <br />
 
-🧬 <a href="https://valarchix.vercel.app">ValarchiX — Personal Financial Intelligence Platform</a>
+### 🧬 [ValarchiX — Personal Financial Intelligence Platform](https://valarchix.vercel.app)
 
-Turn financial complexity into clear, actionable intelligence.
+*Turn financial complexity into clear, actionable intelligence.*
 
-👨‍🏫 Valarchi Vaathi: Interactive AI-powered finance learning assistant.
-
-📊 Financial Simulators: Mutual Fund analyzers & inflation-adjusted retirement tools.
-
-🔒 Privacy-First: 100% safe storage in supabase with OAuth using google and 4 digit PIN enabled in order to inensure the data security.
-
-🚀 Continuous Enhancements: Actively refining & optimizing with new features.
+- 👨‍🏫 **Valarchi Vaathi:** Interactive AI-powered finance learning assistant.
+- 📊 **Financial Simulators:** Mutual Fund analyzers & inflation-adjusted retirement tools.
+- 🔒 **Privacy-First:** Secure storage in Supabase with Google OAuth and a 4-digit PIN to ensure data security.
+- 🚀 **Continuous Enhancements:** Actively refining & optimizing with new features.
 
 <div align="center">
   <br />
@@ -223,25 +209,23 @@ Turn financial complexity into clear, actionable intelligence.
   <br />
 </div>
 
-🔗 Links: <a href="https://valarchix.vercel.app">Live Website</a> | <a href="https://www.producthunt.com/products/valarchix">Product Hunt Page</a>
+🔗 **Links:** [Live Website](https://valarchix.vercel.app) | [Product Hunt Page](https://www.producthunt.com/products/valarchix)
 
 <br />
 
+---
+
 <br />
 
-📌 <a href="https://chromewebstore.google.com/detail/marakadhey/inidbaohifkncdjnondbkljhoogkhnce">Marakadhey — Opportunity & Reminder Utility (Web & Android Mobile)</a>
+### 📌 [Marakadhey — Opportunity & Reminder Utility (Web & Android Mobile)](https://chromewebstore.google.com/detail/marakadhey/inidbaohifkncdjnondbkljhoogkhnce)
 
-Never miss opportunities & deadlines — capture on the browser, track on your phone.
+*Never miss opportunities & deadlines — capture on the browser, track on your phone.*
 
-📱 Android Mobile App: Full-featured on-the-go opportunity tracking, push reminders, and quick capture.
-
-⚡ 1-Click Web Extension: Save opportunities, hackathons, and deadlines instantly with auto-parsed metadata.
-
-⏰ Automated Reminders: Recurrence scheduling, snooze support, and custom notification triggers.
-
-📅 Calendar & Cloud Sync: Integration with Google Calendar and real-time cloud synchronization.
-
-🌐 Multi-Platform: Published on Chrome Web Store & Edge Add-ons, with direct Android APK release.
+- 📱 **Android Mobile App:** Full-featured on-the-go opportunity tracking, push reminders, and quick capture.
+- ⚡ **1-Click Web Extension:** Save opportunities, hackathons, and deadlines instantly with auto-parsed metadata.
+- ⏰ **Automated Reminders:** Recurrence scheduling, snooze support, and custom notification triggers.
+- 📅 **Calendar & Cloud Sync:** Integration with Google Calendar and real-time cloud synchronization.
+- 🌐 **Multi-Platform:** Published on Chrome Web Store & Edge Add-ons, with direct Android APK release.
 
 <div align="center">
   <br />
@@ -249,23 +233,22 @@ Never miss opportunities & deadlines — capture on the browser, track on your p
   <br />
 </div>
 
-🔗 <b>Links:</b> <a href="https://pranaveshn.vercel.app/marakadhey_mobile.apk">📥 <b>Download Android APK</b></a> | <a href="https://chromewebstore.google.com/detail/marakadhey/inidbaohifkncdjnondbkljhoogkhnce">Chrome Web Store</a> | <a href="https://microsoftedge.microsoft.com/addons/detail/marakadhey%E2%80%93never-miss-opp/cmndbipcnkkmeojkioajenbckapcfpla">Edge Add-ons</a> | <a href="https://www.producthunt.com/products/marakadhey/marakadhey/launch-day?utm_source=my-products">Product Hunt Launch</a>
+🔗 **Links:** [📥 Download Android APK](https://pranaveshn.vercel.app/marakadhey_mobile.apk) | [Chrome Web Store](https://chromewebstore.google.com/detail/marakadhey/inidbaohifkncdjnondbkljhoogkhnce) | [Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/marakadhey%E2%80%93never-miss-opp/cmndbipcnkkmeojkioajenbckapcfpla) | [Product Hunt Launch](https://www.producthunt.com/products/marakadhey/marakadhey/launch-day?utm_source=my-products)
 
 <br />
 
+---
+
 <br />
 
-🧭 <a href="https://sikkanam.vercel.app">Sikkanam — Travel & Budget Route Planner PWA</a>
+### 🧭 [Sikkanam — Travel & Budget Route Planner PWA](https://sikkanam.vercel.app)
 
-Travel smart. Spend Sikkanam.
+*Travel smart. Spend Sikkanam.*
 
-🗺️ Custom OSRM Engine: Dynamic 1.25x – 1.40x traffic & mountain terrain scaling.
-
-🚆 Transit Fare Pipeline: TNSTC & IRCTC fare estimation across 80+ cities.
-
-🤖 AI Trip Planner: Gemini & Groq LLaMA AI itinerary generation.
-
-⚡ Google SEO indexed site: number 1 site in google indexing by searching with the name sikkanam.
+- 🗺️ **Custom OSRM Engine:** Dynamic 1.25x – 1.40x traffic & mountain terrain scaling.
+- 🚆 **Transit Fare Pipeline:** TNSTC & IRCTC fare estimation across 80+ cities.
+- 🤖 **AI Trip Planner:** Gemini & Groq LLaMA AI itinerary generation.
+- ⚡ **Google SEO Indexed:** Ranks #1 on Google when searching for "sikkanam".
 
 <div align="center">
   <br />
@@ -273,21 +256,21 @@ Travel smart. Spend Sikkanam.
   <br />
 </div>
 
-🔗 Links: <a href="https://sikkanam.vercel.app">Live Website</a> | <a href="https://www.producthunt.com/products/sikkanam">Product Hunt Page</a>
+🔗 **Links:** [Live Website](https://sikkanam.vercel.app) | [Product Hunt Page](https://www.producthunt.com/products/sikkanam)
 
 <br />
 
+---
+
 <br />
 
-🎧 Speech Enhancement System
+### 🎧 Speech Enhancement System
 
-Academic Digital Signal Processing Project
+*Academic Digital Signal Processing Project*
 
-🎛️ Kalman Filtering: Adaptive noise reduction algorithm for speech signals.
-
-📊 Spectral Post-Processing: Spectral subtraction and noise suppression.
-
-📐 ECE Foundation: Mathematical modeling of non-stationary audio in MATLAB.
+- 🎛️ **Kalman Filtering:** Adaptive noise reduction algorithm for speech signals.
+- 📊 **Spectral Post-Processing:** Spectral subtraction and noise suppression.
+- 📐 **ECE Foundation:** Mathematical modeling of non-stationary audio in MATLAB.
 
 <br />
 
@@ -327,9 +310,21 @@ Academic Digital Signal Processing Project
 
   <br />
 
+  <p>
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=pranavesh-n&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ea580c&icon_color=8b5cf6" alt="GitHub Stats" />
+    &nbsp;
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavesh-n&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ea580c" alt="Top Languages" />
+  </p>
+
+  <p>
+    <img src="https://streak-stats.demolab.com?user=pranavesh-n&theme=tokyonight&hide_border=true&background=0d1117&ring=ea580c&fire=ea580c&currStreakLabel=8b5cf6" alt="GitHub Streak" />
+  </p>
+
+  <br />
+
   <p><b>Idea 💡 • AI Prompt 🧠 • Build 🤖 • Iterate 🛠️ • Ship 🚀</b></p>
 
-  <p><i>"Want my services or help ! Let's connect and build."</i></p>
+  <p><i>"Want my services or help? Let's connect and build."</i></p>
 
   <br />
 
