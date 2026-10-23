@@ -12,7 +12,7 @@
 
   <p>
     <a href="https://pranaveshn.vercel.app/">
-      <img src="https://img.shields.io/badge/🌐_Portfolio-pranaveshn.vercel.app-ea580c?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+      <img src="https://img.shields.io/badge/_Portfolio-pranaveshn.vercel.app-ea580c?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
     </a>
     &nbsp;
     <a href="https://www.linkedin.com/in/pranaveshn">
