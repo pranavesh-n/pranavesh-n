@@ -41,9 +41,9 @@
     &nbsp;
     <img src="https://img.shields.io/badge/Location-Chennai,_India-FF5722?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
     &nbsp;
-    <img
-    src="https://komarev.com/ghpvc/?username=pranavesh-n&style=flat-square&color=ea580c&label=Profile+Views"
-    alt="Profile Views"
+    
+![Profile Views](https://komarev.com/ghpvc/?username=pranavesh-n&style=flat-square&color=ea580c&label=Profile+Views)
+
 </p>
 
 </div>
