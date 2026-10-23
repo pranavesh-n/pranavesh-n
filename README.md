@@ -27,7 +27,7 @@
       <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
     </a>
     &nbsp;
-    <a href="https://www.producthunt.com/products/panam-dekho?launch=panam-dekho">
+    <a href="https://www.producthunt.com/products/panam-paaru?launch=panam-paaru">
       <img src="https://img.shields.io/badge/Product_Hunt-Panam_dekho-DA552F?style=for-the-badge&logo=producthunt&logoColor=white" alt="Product Hunt"/>
     </a>
   </p>
