@@ -320,7 +320,6 @@ A real-time personal finance and multi-asset wealth tracker built with a high-co
   <p>
     <img src="https://streak-stats.demolab.com?user=pranavesh-n&theme=tokyonight&hide_border=true&background=0d1117&ring=ea580c&fire=ea580c&currStreakLabel=8b5cf6" alt="GitHub Streak" />
   </p>
-[![Starred on StarSwap](https://www.fenriryt.me/badge/pranavesh-n)](https://www.fenriryt.me/u/pranavesh-n?ref=badge)
   <br />
 
   <p><b>Idea 💡 • AI Prompt 🧠 • Build 🤖 • Iterate 🛠️ • Ship 🚀</b></p>
